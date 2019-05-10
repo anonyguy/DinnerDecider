@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539250629669",
+    "firebase_url": "https://firstapp-c95c2.firebaseio.com",
+    "project_id": "firstapp-c95c2",
+    "storage_bucket": "firstapp-c95c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539250629669:android:fe94eab8667641b4",
+        "android_client_info": {
+          "package_name": "com.anon04.dinnerdecider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539250629669-hb6ibvhq727lopg90fs6uu462guhrqru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDittBPwdLy0KTeTkoeO7laXkZZCLumcWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539250629669-hb6ibvhq727lopg90fs6uu462guhrqru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
